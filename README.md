@@ -7,9 +7,10 @@ The dataset reveals that a small handful of microbial species (also called opera
 Filters the data from [https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.1/14-Interactive-Web-Visualizations/02-Homework/samples.json](url) this json for the selected patient and grabs all of the metadata associated with them for the charts and information table. 
 
 ## Bar Chart
-Shows the top 10 OTUs of the selected paitent as well as the count of each OTU.
-![Image]([/images/barchart.PNG])
+Shows the top 10 OTUs of the selected paitent as well as the count of each OTU:
+
+![Image](images/barchart.PNG)
 
 ## Bubble Chart
-Each OTU on a bubble chart and displays it's size based on how many of the OTU were found in the patient.
-![Image]([/images/bubblechart.PNG])
+Each OTU on a bubble chart and displays it's size based on how many of the OTU were found in the patient:
+![Image](images/bubblechart.PNG)
