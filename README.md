@@ -8,8 +8,8 @@ Filters the data from [https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-
 
 ## Bar Chart
 Shows the top 10 OTUs of the selected paitent as well as the count of each OTU.
-![Image](/images/barchart.png)
+![Image]([/images/barchart.png](https://github.com/jnh17331/belly_button_challenge/blob/main/images/barchart.PNG))
 
 ## Bubble Chart
 Each OTU on a bubble chart and displays it's size based on how many of the OTU were found in the patient.
-![Image](/images/bubblechart.png)
+![Image]([/images/bubblechart.png](https://github.com/jnh17331/belly_button_challenge/blob/main/images/bubblechart.PNG)https://github.com/jnh17331/belly_button_challenge/blob/main/images/bubblechart.PNG)
